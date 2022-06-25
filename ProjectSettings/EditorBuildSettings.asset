@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Introduction.unity
+    guid: 1c35f577fc2b4c748ab19cdfe51022cb
+  - enabled: 1
+    path: Assets/Platformer/Scenes/LevelSelector.unity
+    guid: 60e45966a4b1a104c96ae88bfbec800c
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Levels/1.unity
+    guid: e3842fe42c1425f4fb63b2a54a9ccebe
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Levels/2.unity
+    guid: 629d33fa36526db41a6e096b12d5d859
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Levels/3.unity
+    guid: eb0c0c288000ea141bea55621447c11c
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Levels/4.unity
+    guid: 09f2f8575b83c6049aefad6aa1ec5035
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Levels/5.unity
+    guid: c0be8a3bc33fca94489c509dba9ad1fe
+  - enabled: 1
+    path: Assets/Platformer/Scenes/GameOver.unity
+    guid: fdea5bcd286246743b6ad4317d1119e9
+  - enabled: 1
+    path: Assets/Platformer/Scenes/GameWin.unity
+    guid: f5f1166457535c34d92038c24694bbd8
+  m_configObjects: {}
