@@ -1,28 +1,27 @@
-# Project FoxOdysee
-## Presentation
----------------
-This project aims at recreating a 2D platformer game in C# language with Unity's engine.\
-The second goal of this project was to learn how to use Unity's game engine.
+<div align="center">
 
-## Infomation about the project
----------------
+# FoxOdysee
+</div>
+
+**This project aims at recreating a 2D platformer game in C# language with Unity's engine.**<br/>
+**The second goal of this project was to learn how to use Unity's game engine.**
+
+## Information
 Project start : 03/16/2022\
 Project end : 03/28/2022\
 Version : 1.0 - GOLD\
 Date last version : 12/17/2022\
 
 ## Building
----------------
 ### Create an executable
 ```sh
 $ Unity > File > Build Settings > Build
 ```
-### Run
+## Run
 ```sh
 $ Unity > File > Build And Run
 ```
 ## Game Preview
----------------
 # MAIN MENU
 - ![PNG](./screenshots/menu.png)
 # OPTIONS MENU
