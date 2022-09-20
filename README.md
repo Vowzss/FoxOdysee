@@ -13,7 +13,7 @@ Version : 1.0 - GOLD\
 Date last version : 12/17/2022\
 
 ## Building
-### Create an executable
+## Create an executable
 ```sh
 $ Unity > File > Build Settings > Build
 ```
