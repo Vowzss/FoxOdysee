@@ -23,39 +23,39 @@ $ Unity > File > Build And Run
 ```
 ## Game Preview
 # MAIN MENU
-- ![PNG](./screenshots/menu.png)
+- ![PNG](./Showcase/menu.png)
 # OPTIONS MENU
-- ![PNG](./screenshots/options.png)
+- ![PNG](./Showcase/options.png)
 # LEVEL SELECTOR MENU
-- ![PNG](./screenshots/levelSelector.png)
+- ![PNG](./Showcase/levelSelector.png)
 
 # GAME OVER MENU
-- ![PNG](./screenshots/gameOver.png)
+- ![PNG](./Showcase/gameOver.png)
 # GAME WIN MENU
-- ![PNG](./screenshots/gameWin.png)
+- ![PNG](./Showcase/gameWin.png)
 # SHOP MENU
-- ![PNG](./screenshots/shopMenu.png)
+- ![PNG](./Showcase/shopMenu.png)
 
 # DIALOGS MENU
-- ![PNG](./screenshots/dialogs.png)
+- ![PNG](./Showcase/dialogs.png)
 
 # CONSUMABLES, COSMETICS & COLLECTIBLES ITEMS
-- ![PNG](./screenshots/consumables.png)
+- ![PNG](./Showcase/consumables.png)
 # INTERACTABLES
-- ![PNG](./screenshots/interactables.png)
+- ![PNG](./Showcase/interactables.png)
 # RANKS ICONS
-- ![PNG](./screenshots/ranks.png)
+- ![PNG](./Showcase/ranks.png)
 # ENEMIES
-- ![PNG](./screenshots/enemies.png)
+- ![PNG](./Showcase/enemies.png)
 
 # PREVIEW MAP 1
-- ![PNG](./screenshots/mapOne.png)
+- ![PNG](./Showcase/mapOne.png)
 # PREVIEW MAP 2
-- ![PNG](./screenshots/mapTwo.png)
+- ![PNG](./Showcase/mapTwo.png)
 # PREVIEW MAP 3
-- ![PNG](./screenshots/mapThree.png)
+- ![PNG](./Showcase/mapThree.png)
 # PREVIEW MAP 4
-- ![PNG](./screenshots/mapFour.png)
+- ![PNG](./Showcase/mapFour.png)
 
 ## Asset Credits
 ---------------
